@@ -7,7 +7,7 @@
 		"minified": false
 	},
 	"compileType": "miniprogram",
-	"appid": "wxcc7fae36b049e470",
+	"appid": "wx43e66aaf74aac2bb",
 	"projectname": "larabbs-weapp",
 	"miniprogramRoot": "dist/",
 	"simulatorType": "wechat",
